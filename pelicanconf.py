@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHORS = [u'matthew', u'matt', u'allison', u'katherine']
 SITENAME = u'so many fires'
-SITEURL = 'https://somanyfires.github.io'
+SITEURL = 'https://somanyfires.github.io/somanyfires/'
 #SITEURL = 'http://localhost:8000'
 
 THEME = "pelican-themes/graymill"
